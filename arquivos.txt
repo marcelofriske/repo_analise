@@ -2,3 +2,7 @@ x = 20
 y = 90
 
 Alterando o arquivo
+
+function void h(){  //Alice
+
+}
