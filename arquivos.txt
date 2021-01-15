@@ -1,13 +1,5 @@
-x = 20
-y = 90
+funtion getSize(){ 
 
-Alterando arquivo -> 
-
-void g(){
 
 }
-
-void f(){
-
-} 
 
