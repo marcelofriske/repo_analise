@@ -3,3 +3,7 @@ funtion getSize(){
 
 }
 
+function setSize(int size){
+	
+
+}
