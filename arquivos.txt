@@ -1,9 +1,2 @@
-funtion getSize(){ 
-
-
-}
-
-function setSize(int size){
-	
-
-}
+x = 20
+y = 90
