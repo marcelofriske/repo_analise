@@ -3,6 +3,12 @@ y = 90
 
 Alterando o arquivo
 
+
 function void h(){  //Alice
+
+}
+
+void g(){ //Função do BOB
+
 
 }
