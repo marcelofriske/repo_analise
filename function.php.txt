@@ -1,1 +1,5 @@
-///Funções originais
+// Novas funções
+
+int getSize(){
+
+}
