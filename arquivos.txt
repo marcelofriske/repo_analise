@@ -1,7 +1,13 @@
 x = 20
 y = 90
+
 Alterando arquivo -> 
 
 void g(){
 
 }
+
+void f(){
+
+} 
+
