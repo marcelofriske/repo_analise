@@ -9,6 +9,7 @@ function void h(){  //Alice
 }
 
 void g(){ //Função do BOB
-
+	int x,y,z
+	z =0;
 
 }
